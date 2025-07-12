@@ -73,7 +73,7 @@ In this README, you will find a summarized version of key Linux networking conce
 
 ## 7. Useful Networking Commands
 
-![Linux Network](Images/network.gif)
+![Linux Network](Images/networking.gif)
 
 | Command    | Description                               |
 | ---------- | ----------------------------------------- |
